@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479773061726",
+    "project_id": "jujutstu-wallpaper",
+    "storage_bucket": "jujutstu-wallpaper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479773061726:android:fb153fa5bca86a9c013acf",
+        "android_client_info": {
+          "package_name": "com.wallpaperjujutsu.animejujutsukaisengojosatoru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479773061726-e0q99sblp9achv4a7fcsvpvpg1uv3p9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAKuQAu0fLimU2bsfi7Db-ble5J1mITkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479773061726-e0q99sblp9achv4a7fcsvpvpg1uv3p9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
